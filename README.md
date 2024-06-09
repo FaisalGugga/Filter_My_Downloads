@@ -13,7 +13,7 @@
 
 ## How to use:
 
-1. **Download the FilterMyDownloads.exe**: Run the execution inside YOUR download folder or any way (It doesn't matter really).
+1. **Download the FilterMyDownloads.exe**: Run the execution inside YOUR download folder or anywhere (It doesn't matter really).
    
 2. **Enter your download folder location**: Inside the command line
    
